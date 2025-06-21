@@ -9,9 +9,5 @@ This project was completed as part of a data internship challenge. It involves b
 - `data/`: Contains the original and cleaned dataset.
 - `requirements.txt`: Python libraries used in the project.
 
-## ⚙️ How to Run
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/YOUR_USERNAME/social-ads-etl.git
-cd social-ads-etl
+
